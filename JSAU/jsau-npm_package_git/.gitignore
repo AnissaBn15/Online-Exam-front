@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Bundles
+dist/
+build/
+
+# Autres fichiers générés
+.DS_Store
